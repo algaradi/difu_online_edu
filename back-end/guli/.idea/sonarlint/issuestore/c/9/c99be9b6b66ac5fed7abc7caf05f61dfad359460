@@ -1,0 +1,15 @@
+
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(Æáëğûÿÿÿÿ
+S	java:S106O"9Replace this use of System.out or System.err by a logger.(¨Ê¶úÿÿÿÿ
+I
+java:S1135°"2Complete the task associated to this TODO comment.(¤õ½‚
+_
+java:S1128"DRemove this unused import 'com.wangdifu.eduservice.entity.EduVideo'.(âÉ¡äùÿÿÿÿ
+u
+java:S2293ç"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºıÿÿÿÿ
+‚
+java:S1488m"gImmediately return this expression instead of assigning it to the temporary variable "coursePublishVo".(ŞÓí¯øÿÿÿÿ
+~
+java:S1488À"bImmediately return this expression instead of assigning it to the temporary variable "eduCourses".(ìÒøÑúÿÿÿÿ
+‡
+java:S1488ø"kImmediately return this expression instead of assigning it to the temporary variable "frontCourseSingleVo".(ŒÚ·úÿÿÿÿ

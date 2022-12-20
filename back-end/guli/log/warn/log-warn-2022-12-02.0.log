@@ -1,0 +1,46 @@
+2022-12-02 01:56:00.878 [lettuce-nioEventLoop-4-3] WARN  io.lettuce.core.protocol.ConnectionWatchdog - Cannot reconnect to [192.168.254.101:6379]: Reconnection attempt exceeded timeout of 60 SECONDS 
+2022-12-02 01:56:21.697 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h22m50s822ms833µs500ns).
+2022-12-02 22:28:10.975 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2022-12-02 22:28:10.981 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2022-12-02 22:29:13.911 [lettuce-nioEventLoop-4-1] WARN  io.netty.channel.ChannelInitializer - Failed to initialize a channel. Closing: [id: 0x79b063ea]
+java.lang.OutOfMemoryError: null
+	at sun.misc.Unsafe.allocateMemory(Native Method)
+	at io.netty.util.internal.PlatformDependent0.allocateDirectNoCleaner(PlatformDependent0.java:453)
+	at io.netty.util.internal.PlatformDependent.allocateDirectNoCleaner(PlatformDependent.java:683)
+	at io.netty.buffer.PoolArena$DirectArena.allocateDirect(PoolArena.java:758)
+	at io.netty.buffer.PoolArena$DirectArena.newChunk(PoolArena.java:734)
+	at io.netty.buffer.PoolArena.allocateNormal(PoolArena.java:245)
+	at io.netty.buffer.PoolArena.allocate(PoolArena.java:215)
+	at io.netty.buffer.PoolArena.allocate(PoolArena.java:147)
+	at io.netty.buffer.PooledByteBufAllocator.newDirectBuffer(PooledByteBufAllocator.java:342)
+	at io.netty.buffer.AbstractByteBufAllocator.directBuffer(AbstractByteBufAllocator.java:187)
+	at io.netty.buffer.AbstractByteBufAllocator.directBuffer(AbstractByteBufAllocator.java:178)
+	at io.lettuce.core.protocol.RedisStateMachine.<init>(RedisStateMachine.java:58)
+	at io.lettuce.core.protocol.CommandHandler.<init>(CommandHandler.java:78)
+	at io.lettuce.core.RedisClient.lambda$connectStandaloneAsync$0(RedisClient.java:275)
+	at io.lettuce.core.ConnectionBuilder.buildHandlers(ConnectionBuilder.java:80)
+	at io.lettuce.core.PlainChannelInitializer.initChannel(PlainChannelInitializer.java:123)
+	at io.netty.channel.ChannelInitializer.initChannel(ChannelInitializer.java:129)
+	at io.netty.channel.ChannelInitializer.handlerAdded(ChannelInitializer.java:112)
+	at io.netty.channel.AbstractChannelHandlerContext.callHandlerAdded(AbstractChannelHandlerContext.java:964)
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAdded0(DefaultChannelPipeline.java:613)
+	at io.netty.channel.DefaultChannelPipeline.access$100(DefaultChannelPipeline.java:46)
+	at io.netty.channel.DefaultChannelPipeline$PendingHandlerAddedTask.execute(DefaultChannelPipeline.java:1475)
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAddedForAllHandlers(DefaultChannelPipeline.java:1127)
+	at io.netty.channel.DefaultChannelPipeline.invokeHandlerAddedIfNeeded(DefaultChannelPipeline.java:654)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:503)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.access$200(AbstractChannel.java:416)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$1.run(AbstractChannel.java:475)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:510)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:518)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$6.run(SingleThreadEventExecutor.java:1050)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2022-12-02 22:57:23.424 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2022-12-02 22:57:23.436 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2022-12-02 23:08:41.594 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2022-12-02 23:08:41.610 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2022-12-02 23:48:16.880 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2022-12-02 23:48:16.887 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.

@@ -1,0 +1,27 @@
+
+P	java:S125C"<This block of commented-out lines of code should be removed.(ªúì
+Q	java:S125F"<This block of commented-out lines of code should be removed.(“ğÍş
+V	java:S125P"<This block of commented-out lines of code should be removed.(ÌÉÇåùÿÿÿÿ
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(¤¸¢öøÿÿÿÿ
+S	java:S106^"9Replace this use of System.out or System.err by a logger.(¸æØ÷ÿÿÿÿÿ
+N	java:S106l"9Replace this use of System.out or System.err by a logger.(›á„Ë
+M	java:S106w"9Replace this use of System.out or System.err by a logger.(”ø%
+N	java:S106~"9Replace this use of System.out or System.err by a logger.(¹Œ³â
+O	java:S106‡"9Replace this use of System.out or System.err by a logger.(±É­
+T	java:S106"9Replace this use of System.out or System.err by a logger.(«¥ Ÿûÿÿÿÿ
+O	java:S106•"9Replace this use of System.out or System.err by a logger.(®¶ä×
+T	java:S106œ"9Replace this use of System.out or System.err by a logger.(ìóÊ§ıÿÿÿÿ
+T	java:S106¤"9Replace this use of System.out or System.err by a logger.(àÀØøÿÿÿÿ
+]
+java:S3252Æ"FUse static access with "com.alibaba.fastjson.JSON" for "toJSONString".(³‹µÌ
+d
+java:S11922"IDefine a constant instead of duplicating this literal "order_no" 3 times.(·ƒ­Âøÿÿÿÿ
+h
+java:S1192?"MDefine a constant instead of duplicating this literal "out_trade_no" 3 times.(°ëÓşÿÿÿÿ
+k	java:S117{"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓŠÿÿÿÿÿ
+g	java:S117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ÙôÃ
+g	java:S117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô´¶×
+l	java:S117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôù´Üùÿÿÿÿ
+g	java:S117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó‚ä
+\
+java:S2259["FA "NullPointerException" could be thrown; "response" is nullable here.(Öªí“

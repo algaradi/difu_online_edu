@@ -1,0 +1,12 @@
+
+E
+java:S3740 "/Provide the parametrized type for this generic.(‚Ê«
+Q	java:S125,"<This block of commented-out lines of code should be removed.(óÉÌø
+T
+java:S16121">Replace this lambda with method reference 'Role::getRoleName'.(¢î«ñ
+S
+java:S11552">Use isEmpty() to check whether the collection is empty or not.(åöî(
+
+java:S1488K"fImmediately return this expression instead of assigning it to the temporary variable "permissionList".(íî¬¯ıÿÿÿÿ
+X
+java:S22590"BA "NullPointerException" could be thrown; "user" is nullable here.(¾³æå

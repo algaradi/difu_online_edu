@@ -1,0 +1,17 @@
+
+]	java:S125#"<This block of commented-out lines of code should be removed.(¨İæüÿÿÿÿ8ÎÊÈÍ0
+S
+java:S1874$"1Remove this use of "setMethod"; it is deprecated.(õŒßÈùÿÿÿÿ8æÈÍ0
+S
+java:S1874%"1Remove this use of "setDomain"; it is deprecated.(ŒªáÁşÿÿÿÿ8æÈÍ0
+T
+java:S1874&"2Remove this use of "setVersion"; it is deprecated.(çÁùúÿÿÿÿ8ŸæÈÍ0
+N
+java:S1874'"1Remove this use of "setAction"; it is deprecated.(¡å£—8 æÈÍ0
+h
+java:S3252,"FUse static access with "com.alibaba.fastjson.JSON" for "toJSONString".(Í‚’ûÿÿÿÿ8ˆ³ÎÍ0
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(ÇÌû°øÿÿÿÿ8×ÊÈÍ0
+T
+java:S1128
+"7Remove this unused import 'com.wangdifu.commonutils.R'.(ÑÖ¢8ˆ„íÍ0
+\secrets:S6336"<Make sure this Alibaba Cloud Access Key ID is not disclosed.(¸¼éÒ8¹…¿Í0

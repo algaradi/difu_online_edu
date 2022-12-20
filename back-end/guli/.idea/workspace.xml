@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b4bb73a-9ee3-4fcb-9f99-3aad1bf18367" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="XML FILE" />
+        <option value="Interface" />
+        <option value="Python Script" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <toolWindowEditorPreview>false</toolWindowEditorPreview>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Program Files\Apache\repository" />
+        <option name="mavenHome" value="D:/Program Files/Apache/apache-maven-3.8.4" />
+        <option name="userSettingsFile" value="D:\Program Files\Apache\apache-maven-3.8.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="2Gx2w8aJXeU8802FD13nJbjRWLE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.PYTHON_MODULE" value="Python 3.6" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/common/spring_security/src/main/java/com/wangdifu/springsecurity/security" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.34367815" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.wangdifu.servicemsm.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\IdeaSpringBootProjects\guli\common\spring_security\src\main\java\com\wangdifu\springsecurity\security" />
+      <recent name="G:\IdeaSpringBootProjects\guli\common\spring_security\src\main\java\com\wangdifu\springsecurity\filter" />
+      <recent name="G:\IdeaSpringBootProjects\guli\common\spring_security\src\main\java\com\wangdifu\springsecurity\entity" />
+      <recent name="G:\IdeaSpringBootProjects\guli\common\spring_security\src\main\java\com\wangdifu\springsecurity\config" />
+      <recent name="G:\IdeaSpringBootProjects\guli\common\common-utils\src\main\java\com\wangdifu\commonutils" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wangdifu.servicestatistics" />
+      <recent name="com.wangdifu.commonutils.ordervo" />
+      <recent name="com.wangdifu.commonutils.vo" />
+      <recent name="com.wangdifu.orderservice" />
+      <recent name="com.wangdifu.serviceucenter" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\IdeaSpringBootProjects\guli\service\service-msm\src\main\java\com\wangdifu\servicemsm\utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.EduServiceMain8001">
+    <configuration name="CodeGenerator.run (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service_statistics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wangdifu.servicestatistics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wangdifu.servicestatistics" />
+      <option name="MAIN_CLASS_NAME" value="com.wangdifu.servicestatistics.CodeGenerator" />
+      <option name="METHOD_NAME" value="run" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiGatewayApplication9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="api_gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wangdifu.getwayservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wangdifu.getwayservice.ApiGatewayApplication9001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CmsApplication8004" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service-cms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wangdifu.servicecms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wangdifu.servicecms.CmsApplication8004" />
+      <option name="VM_PARAMETERS" value="-Xms100m -Xmx200m -XX:+HeapDumpOnOutOfMemoryError" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EduServiceMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-edu" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wangdifu.eduservice.EduServiceMain8001" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainOssService8002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-oss" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wangdifu.ossservice.MainOssService8002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderServiceMain8007" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wangdifu.orderservice.OrderServiceMain8007" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceAclApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-acl" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wangdifu.serviceacl.ServiceAclApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceMsmMain8005" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-msm" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wangdifu.servicemsm.ServiceMsmMain8005" />
+      <option name="VM_PARAMETERS" value="-Xms10m -Xmx50m -XX:+HeapDumpOnOutOfMemoryError" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceUCenterMain8006" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-ucenter" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wangdifu.serviceucenter.ServiceUCenterMain8006" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceVodMain8003" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service-vod" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wangdifu.servicevod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wangdifu.servicevod.ServiceVodMain8003" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatisticsServiceMain8008" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service_statistics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wangdifu.servicestatistics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wangdifu.servicestatistics.StatisticsServiceMain8008" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.CodeGenerator.run (1)" />
+      <item itemvalue="Spring Boot.EduServiceMain8001" />
+      <item itemvalue="Spring Boot.MainOssService8002" />
+      <item itemvalue="Spring Boot.ServiceMsmMain8005" />
+      <item itemvalue="Spring Boot.ServiceUCenterMain8006" />
+      <item itemvalue="Spring Boot.OrderServiceMain8007" />
+      <item itemvalue="Spring Boot.ServiceAclApplication" />
+      <item itemvalue="Spring Boot.CmsApplication8004" />
+      <item itemvalue="Spring Boot.ApiGatewayApplication9001" />
+      <item itemvalue="Spring Boot.StatisticsServiceMain8008" />
+      <item itemvalue="Spring Boot.ServiceVodMain8003" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ApiGatewayApplication9001" />
+        <item itemvalue="Spring Boot.CmsApplication8004" />
+        <item itemvalue="Spring Boot.ServiceVodMain8003" />
+        <item itemvalue="Spring Boot.StatisticsServiceMain8008" />
+        <item itemvalue="JUnit.CodeGenerator.run (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b4bb73a-9ee3-4fcb-9f99-3aad1bf18367" name="Default Changelist" comment="" />
+      <created>1667316150772</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667316150772</updated>
+      <workItem from="1667316160274" duration="284000" />
+      <workItem from="1667379839609" duration="3409000" />
+      <workItem from="1667452981675" duration="589000" />
+      <workItem from="1667635340527" duration="7584000" />
+      <workItem from="1667700611253" duration="19071000" />
+      <workItem from="1667792286648" duration="14151000" />
+      <workItem from="1667879292311" duration="16216000" />
+      <workItem from="1667974630815" duration="7704000" />
+      <workItem from="1668063684622" duration="4793000" />
+      <workItem from="1668351967288" duration="7524000" />
+      <workItem from="1668545947977" duration="11292000" />
+      <workItem from="1669250800439" duration="246000" />
+      <workItem from="1669251580613" duration="7259000" />
+      <workItem from="1669336905589" duration="12226000" />
+      <workItem from="1669444867024" duration="14054000" />
+      <workItem from="1669704769207" duration="30037000" />
+      <workItem from="1669872160361" duration="14630000" />
+      <workItem from="1669966250778" duration="17145000" />
+      <workItem from="1670045696960" duration="1815000" />
+      <workItem from="1670051123496" duration="307000" />
+      <workItem from="1670059747199" duration="261000" />
+      <workItem from="1670060036311" duration="74000" />
+      <workItem from="1670060137247" duration="3761000" />
+      <workItem from="1670064054669" duration="698000" />
+      <workItem from="1670073069117" duration="18974000" />
+      <workItem from="1670133575024" duration="26297000" />
+      <workItem from="1670200653767" duration="4848000" />
+      <workItem from="1670438267640" duration="3955000" />
+      <workItem from="1670584988444" duration="17957000" />
+      <workItem from="1670776052424" duration="27084000" />
+      <workItem from="1670971637788" duration="1054000" />
+      <workItem from="1670972724483" duration="12861000" />
+      <workItem from="1671067890245" duration="6329000" />
+      <workItem from="1671249554971" duration="11850000" />
+      <workItem from="1671521418745" duration="1395000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="483" y="0" width="967" height="1032" key="#CloudGetWayMain9001" timestamp="1670136554798">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="483" y="0" width="967" height="1032" key="#CloudGetWayMain9001/0.0.1920.1032@0.0.1920.1032" timestamp="1670136554798" />
+    <state x="422" y="124" width="1174" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1670170686915">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="422" y="124" width="1174" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1670170686915" />
+    <state x="671" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1669820082857">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="671" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1032@0.0.1920.1032" timestamp="1669820082857" />
+    <state x="764" y="173" key="#com.intellij.ide.util.MemberChooser" timestamp="1671252604641">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="764" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1032@0.0.1920.1032" timestamp="1671252604641" />
+    <state x="777" y="125" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1670972677493">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="777" y="125" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1670972677493" />
+    <state x="741" y="309" width="636" height="321" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1669918077764">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="741" y="309" width="636" height="321" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1032@0.0.1920.1032" timestamp="1669918077764" />
+    <state x="724" y="349" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1671254027365">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="724" y="349" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1671254027365" />
+    <state x="738" y="224" key="FileChooserDialogImpl" timestamp="1670972056374">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="738" y="224" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1670972056374" />
+    <state x="763" y="407" key="Github.CreateGistDialog" timestamp="1670789565035">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="763" y="407" key="Github.CreateGistDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1670789565035" />
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom" timestamp="1671262458994">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1671262458994" />
+    <state width="1877" height="277" key="GridCell.Tab.0.center" timestamp="1671262458994">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="277" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1671262458994" />
+    <state width="1877" height="277" key="GridCell.Tab.0.left" timestamp="1671262458993">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="277" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1671262458993" />
+    <state width="1877" height="277" key="GridCell.Tab.0.right" timestamp="1671262458994">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="277" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1671262458994" />
+    <state width="1877" height="277" key="GridCell.Tab.1.bottom" timestamp="1671262458994">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="277" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1671262458994" />
+    <state width="1877" height="277" key="GridCell.Tab.1.center" timestamp="1671262458994">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="277" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1671262458994" />
+    <state width="1877" height="277" key="GridCell.Tab.1.left" timestamp="1671262458994">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="277" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1671262458994" />
+    <state width="1877" height="277" key="GridCell.Tab.1.right" timestamp="1671262458994">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="277" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1671262458994" />
+    <state width="1877" height="276" key="GridCell.Tab.2.bottom" timestamp="1671262458990">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="276" key="GridCell.Tab.2.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1671262458990" />
+    <state width="1877" height="276" key="GridCell.Tab.2.center" timestamp="1671262458990">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="276" key="GridCell.Tab.2.center/0.0.1920.1032@0.0.1920.1032" timestamp="1671262458990" />
+    <state width="1877" height="276" key="GridCell.Tab.2.left" timestamp="1671262458990">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="276" key="GridCell.Tab.2.left/0.0.1920.1032@0.0.1920.1032" timestamp="1671262458990" />
+    <state width="1877" height="276" key="GridCell.Tab.2.right" timestamp="1671262458990">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="276" key="GridCell.Tab.2.right/0.0.1920.1032@0.0.1920.1032" timestamp="1671262458990" />
+    <state x="489" y="124" key="Maven.ArtifactSearchDialog" timestamp="1671155486807">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="489" y="124" key="Maven.ArtifactSearchDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1671155486807" />
+    <state x="439" y="44" width="1040" height="886" key="SettingsEditor" timestamp="1670973248525">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="439" y="44" width="1040" height="886" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1670973248525" />
+    <state x="680" y="214" width="540" height="540" key="StructurePopup" timestamp="1667892655552">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="680" y="214" width="540" height="540" key="StructurePopup/0.0.1920.1032@0.0.1920.1032" timestamp="1667892655552" />
+    <state x="506" y="170" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1671257635403">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="506" y="170" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1032@0.0.1920.1032" timestamp="1671257635403" />
+    <state x="625" y="186" width="807" height="632" key="find.popup" timestamp="1671155193810">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="625" y="186" width="807" height="632" key="find.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1671155193810" />
+    <state x="333" y="75" key="new project wizard" timestamp="1671155367107">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="333" y="75" key="new project wizard/0.0.1920.1032@0.0.1920.1032" timestamp="1671155367107" />
+    <state x="702" y="143" key="refactoring.ChangeSignatureDialog" timestamp="1668355086869">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="702" y="143" key="refactoring.ChangeSignatureDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1668355086869" />
+    <state x="616" y="238" width="672" height="677" key="run.anything.popup" timestamp="1669718383274">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="616" y="238" width="672" height="677" key="run.anything.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1669718383274" />
+    <state x="623" y="223" width="672" height="678" key="search.everywhere.popup" timestamp="1669977298096">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="623" y="223" width="672" height="678" key="search.everywhere.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1669977298096" />
+    <state x="639" y="68" key="spring file set editor" timestamp="1670972058047">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="639" y="68" key="spring file set editor/0.0.1920.1032@0.0.1920.1032" timestamp="1670972058047" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/common/spring_security/src/main/java/com/wangdifu/springsecurity/filter/TokenAuthenticationFilter.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/common/spring_security/src/main/java/com/wangdifu/springsecurity/filter/TokenAuthenticationFilter.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/service/service-acl/src/main/java/com/wangdifu/serviceacl/service/impl/PermissionServiceImpl.java</url>
+          <line>150</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/service/service-acl/src/main/java/com/wangdifu/serviceacl/service/impl/PermissionServiceImpl.java</url>
+          <line>148</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/service/service-acl/src/main/java/com/wangdifu/serviceacl/service/impl/PermissionServiceImpl.java</url>
+          <line>120</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

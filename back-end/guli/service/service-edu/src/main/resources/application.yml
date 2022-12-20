@@ -1,0 +1,55 @@
+server:
+  port: 8001
+spring:
+  application:
+    name: servicr-edu
+  profiles:
+    active: dev
+
+  # mysql数据库连接
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/guli?serverTimezone=GMT%2B8
+    username: root
+    password: root
+
+#    返回json的全局时间格式
+  jackson:
+    time-zone: GMT+8
+    date-format: yyyy-MM-dd HH:mm:ss
+
+# nacos服务地址
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+
+#Redis 配置
+  redis:
+    host: 127.0.0.1
+    port: 6379
+#    password: 123456
+    timeout: 1800000
+    lettuce:
+      pool:
+        max-active: 50
+        max-wait: 1
+        #最大阻塞等待时间(负数表示没限制)
+        max-idle: 5
+        min-idle: 0
+    database: 0
+
+# f服务熔断 hystrix
+feign:
+  hystrix:
+    enabled: true
+
+#  mybatis-plus  日志
+mybatis-plus:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+  mapper-locations: classpath:com/wangdifu/eduservice/mapper/xml/*
+
+
+
+

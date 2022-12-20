@@ -1,0 +1,8 @@
+
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(ºÜÇÉüÿÿÿÿ
+S	java:S106a"9Replace this use of System.out or System.err by a logger.(ü¨ÕÉýÿÿÿÿ
+w
+java:S1128
+"URemove this unused import 'com.wangdifu.eduservice.entity.vo.courssevo.CourseInfoVo'.(ùî€×øÿÿÿÿ8åþ—¼Ð0
+o
+java:S2293:"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ýúªˆ

@@ -1,0 +1,11 @@
+
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(ŸĞ‡üÿÿÿÿ
+s
+java:S1128"XRemove this unused import 'com.baomidou.mybatisplus.core.conditions.query.QueryWrapper'.(ÓÆÂæÿÿÿÿÿ
+V
+java:S1128"ARemove this unused import 'org.springframework.util.StringUtils'.(Ğôÿ
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(ŸĞ‡üÿÿÿÿ
+s
+java:S1128"XRemove this unused import 'com.baomidou.mybatisplus.core.conditions.query.QueryWrapper'.(ÓÆÂæÿÿÿÿÿ
+V
+java:S1128"ARemove this unused import 'org.springframework.util.StringUtils'.(Ğôÿ

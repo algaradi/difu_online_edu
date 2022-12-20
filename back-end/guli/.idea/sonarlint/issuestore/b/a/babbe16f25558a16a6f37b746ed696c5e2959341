@@ -1,0 +1,11 @@
+
+]
+java:S3252,"GUse static access with "com.alibaba.excel.EasyExcelFactory" for "read".(–ı°†
+p
+java:S1128"NRemove this unused import 'com.sun.org.apache.xpath.internal.operations.Bool'.(™¦èûÿÿÿÿ8˜í‡ÂÅ0
+K
+java:S11433"5Remove this return statement from this finally block.(Ëâùé
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(™¦èûÿÿÿÿ
+}
+java:S41650"bRemove this useless assignment; "flag" already holds the assigned value along all execution paths.(ÚÄ¦òøÿÿÿÿ

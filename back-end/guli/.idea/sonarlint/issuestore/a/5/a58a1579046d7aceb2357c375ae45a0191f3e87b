@@ -1,0 +1,13 @@
+
+m
+java:S1764\"KCorrect one of the identical sub-expressions on both sides of operator "||"(ÑÃä¿ıÿÿÿÿ8’«“Í0
+u
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Qualifier'.(íàÄ®ıÿÿÿÿ8›¾»îĞ0
+Q
+java:S1128"/Remove this unused import 'sun.misc.UCDecoder'.(éˆÚ«ÿÿÿÿÿ8¾»îĞ0
+y
+java:S1488q"]Immediately return this expression instead of assigning it to the temporary variable "token".(£Ì†g8ÑÔ“Í0
+L
+java:S5411l"*Use the primitive boolean expression here.(‰éÖÅıÿÿÿÿ8¥Ğ “Í0
+W
+java:S1191"5Use classes from the Java API instead of Sun classes.(éˆÚ«ÿÿÿÿÿ8©Ğ “Í0

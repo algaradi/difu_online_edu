@@ -1,0 +1,56 @@
+2022-11-02 20:12:44.680  INFO 2568 --- [AutoCompiler] i.g.w.s.Restart.Restarter                : Restarting application
+2022-11-02 20:12:44.682  INFO 2568 --- [RestartThread] i.g.w.s.Restart.Restarter                : Stopping application
+2022-11-02 20:12:44.697  INFO 2568 --- [RestartThread] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2022-11-02 20:12:44.699  INFO 2568 --- [RestartThread] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown initiated...
+2022-11-02 20:12:44.721  INFO 2568 --- [RestartThread] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown completed.
+2022-11-02 20:12:45.901  INFO 2568 --- [RestartThread] i.g.w.s.Restart.Restarter                : Starting application com.wangdifu.eduservice.EduServiceMain8001 with URLs [file:/G:/IdeaSpringBootProjects/guli/service/service-edu/target/classes/, file:/G:/IdeaSpringBootProjects/guli/service/service-edu/target/classes/, file:/G:/IdeaSpringBootProjects/guli/common/service-base/target/classes/, file:/G:/IdeaSpringBootProjects/guli/common/service-base/target/classes/, file:/G:/IdeaSpringBootProjects/guli/common/common-utils/target/classes/, file:/G:/IdeaSpringBootProjects/guli/common/common-utils/target/classes/]
+2022-11-02 20:12:45.971  INFO 2568 --- [restartedMain] c.w.eduservice.EduServiceMain8001        : Starting EduServiceMain8001 on LAPTOP-OT2J27UQ with PID 2568 (G:\IdeaSpringBootProjects\guli\service\service-edu\target\classes started by Lenovo in G:\IdeaSpringBootProjects\guli)
+2022-11-02 20:12:45.972  INFO 2568 --- [restartedMain] c.w.eduservice.EduServiceMain8001        : The following profiles are active: dev
+2022-11-02 20:12:46.592  INFO 2568 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-11-02 20:12:46.592  INFO 2568 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2022-11-02 20:12:46.597  INFO 2568 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 5ms. Found 0 repository interfaces.
+2022-11-02 20:12:46.678  INFO 2568 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-11-02 20:12:46.685 ERROR 2568 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : An incompatible version [1.2.5] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2022-11-02 20:12:46.715  WARN 2568 --- [restartedMain] org.apache.tomcat.util.modeler.Registry  : The MBean registry cannot be disabled because it has already been initialised
+2022-11-02 20:12:46.719 ERROR 2568 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : An incompatible version [1.2.5] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2022-11-02 20:12:46.730  INFO 2568 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8001 (http)
+2022-11-02 20:12:46.731 ERROR 2568 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : An incompatible version [1.2.5] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2022-11-02 20:12:46.732  INFO 2568 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-11-02 20:12:46.732  INFO 2568 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.27]
+2022-11-02 20:12:46.793  INFO 2568 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-11-02 20:12:46.793  INFO 2568 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 816 ms
+2022-11-02 20:12:46.894  INFO 2568 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Starting...
+2022-11-02 20:12:46.935  INFO 2568 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Start completed.
+2022-11-02 20:12:47.201  INFO 2568 --- [restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-11-02 20:12:47.269  INFO 2568 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2022-11-02 20:12:47.380  INFO 2568 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2022-11-02 20:12:47.382  INFO 2568 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2022-11-02 20:12:47.387  INFO 2568 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2022-11-02 20:12:47.430  INFO 2568 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8001 (http) with context path ''
+2022-11-02 20:12:47.431  INFO 2568 --- [restartedMain] c.w.eduservice.EduServiceMain8001        : Started EduServiceMain8001 in 1.516 seconds (JVM running for 283.139)
+2022-11-02 20:13:17.357  INFO 22072 --- [restartedMain] c.w.eduservice.EduServiceMain8001        : Starting EduServiceMain8001 on LAPTOP-OT2J27UQ with PID 22072 (G:\IdeaSpringBootProjects\guli\service\service-edu\target\classes started by Lenovo in G:\IdeaSpringBootProjects\guli)
+2022-11-02 20:13:17.364  INFO 22072 --- [restartedMain] c.w.eduservice.EduServiceMain8001        : The following profiles are active: dev
+2022-11-02 20:13:19.363  INFO 22072 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-11-02 20:13:19.366  INFO 22072 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2022-11-02 20:13:19.411  INFO 22072 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 21ms. Found 0 repository interfaces.
+2022-11-02 20:13:19.938  INFO 22072 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-11-02 20:13:20.006 ERROR 22072 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : An incompatible version [1.2.5] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2022-11-02 20:13:20.217 ERROR 22072 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : An incompatible version [1.2.5] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2022-11-02 20:13:20.345  INFO 22072 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8001 (http)
+2022-11-02 20:13:20.362 ERROR 22072 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : An incompatible version [1.2.5] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2022-11-02 20:13:20.364  INFO 22072 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-11-02 20:13:20.365  INFO 22072 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.27]
+2022-11-02 20:13:20.614  INFO 22072 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-11-02 20:13:20.615  INFO 22072 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 3141 ms
+2022-11-02 20:13:20.978  INFO 22072 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-11-02 20:13:22.693  INFO 22072 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-11-02 20:13:23.475  INFO 22072 --- [restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-11-02 20:13:23.666  INFO 22072 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2022-11-02 20:13:23.862  INFO 22072 --- [restartedMain] i.g.w.s.AutoCompile.AutoCompiler         : [G:\IdeaSpringBootProjects\guli\service\service-edu\src\main\java] has started to monitor
+2022-11-02 20:13:23.864  INFO 22072 --- [restartedMain] i.g.w.s.AutoCompile.AutoCompiler         : [G:\IdeaSpringBootProjects\guli\service\service-edu\src\main\Resources] has started to monitor
+2022-11-02 20:13:23.874  INFO 22072 --- [restartedMain] i.g.w.s.FileWatch.FileWatcher            : FileWatcher has been started
+2022-11-02 20:13:24.492  INFO 22072 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2022-11-02 20:13:24.521  INFO 22072 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2022-11-02 20:13:24.563  INFO 22072 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2022-11-02 20:13:24.801  INFO 22072 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8001 (http) with context path ''
+2022-11-02 20:13:24.805  INFO 22072 --- [restartedMain] c.w.eduservice.EduServiceMain8001        : Started EduServiceMain8001 in 8.437 seconds (JVM running for 11.597)
