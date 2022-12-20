@@ -18,6 +18,7 @@
 ### 4. 订单管理
 ### 5. 课程分类
 ### 6. 广告管理
+### 7. 统计分析
 ## 前台
 ### 1. 首页》 展示广告--热门课程--出门讲师等信息
 ### 2. 课程》 筛选方式展示课程信息 ---》课程详情》支付宝购买课程》观看课程》评论等
@@ -33,4 +34,8 @@
 ![image](https://user-images.githubusercontent.com/78295307/208634654-efe98d00-c8ff-4e5e-853d-36894ed6b1b7.png)
 ### 后台管理-权限管理
 ![image](https://user-images.githubusercontent.com/78295307/208634819-978c41af-45ff-4cb5-8de9-a01346f5b1d9.png)
+### 后台管理-统计分析
+![image](https://user-images.githubusercontent.com/78295307/208641429-92302f4c-3c04-41a3-8bea-69b5be546150.png)
+
+
 
